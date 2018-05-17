@@ -1,0 +1,661 @@
+Other   |            | 5.96e-06   |            |       |100.00
+
+Nlocal:    48 ave 49 max 47 min
+Histogram: 1 0 0 0 0 4 0 0 0 1
+Nghost:    2102 ave 2107 max 2096 min
+Histogram: 2 1 0 0 0 0 0 0 0 3
+Neighs:    11035 ave 11517 max 10472 min
+Histogram: 1 0 0 1 1 0 0 2 0 1
+
+Total # of neighbors = 66210
+Ave neighs/atom = 229.896
+Neighbor list builds = 0
+Dangerous builds = 0
+ERROR: Invalid Boolean syntax in if command (../variable.cpp:4601)
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -5925.67122146364
+  	final energy = -5904.09665842597
+  	minimum energy of perfect lattice = -5925.67122146364
+
+  Disordered accepted MC moves = 65
+  Disordered total moves = 500
+  accepted MC moves = 72
+  Total moves = 4500
+  	Ratio of accepted/Total = 1.6 %
+
+Calculation complete
+Total wall time: 0:03:13
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -5925.67122146364
+  	final energy = -5904.09665842597
+  	minimum energy of perfect lattice = -5925.67122146364
+
+  Disordered accepted MC moves = 65
+  Disordered total moves = 500
+  accepted MC moves = 72
+  Total moves = 4500
+  	Ratio of accepted/Total = 1.6 %
+
+Calculation complete
+Total wall time: 0:03:13
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -5925.67122146364
+  	final energy = -5880.21591763434
+  	minimum energy of perfect lattice = -5925.67122146364
+
+  Disordered accepted MC moves = 598
+  Disordered total moves = 4000
+  accepted MC moves = 227
+  Total moves = 6000
+  	Ratio of accepted/Total = 3.78333333333333 %
+
+Calculation complete
+Total wall time: 0:06:18
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -5925.67122146364
+  	final energy = -5842.23461508067
+  	minimum energy of perfect lattice = -5925.67122146364
+
+  Disordered accepted MC moves = 990
+  Disordered total moves = 4000
+  accepted MC moves = 284
+  Total moves = 6000
+  	Ratio of accepted/Total = 4.73333333333333 %
+
+Calculation complete
+Total wall time: 0:06:18
+MC stats:
+  	neighbor list rebuilds = 1
+  	starting energy = -5925.67122146364
+  	final energy = -5875.6855769184
+  	minimum energy of perfect lattice = -5925.67122146364
+
+  Disordered accepted MC moves = 1272
+  Disordered total moves = 5000
+  accepted MC moves = 461
+  Total moves = 15000
+  	Ratio of accepted/Total = 3.07333333333333 %
+
+Calculation complete
+Total wall time: 0:12:32
+MC stats:
+  	neighbor list rebuilds = 1
+  	starting energy = -5925.67122146364
+  	final energy = -5822.02495236011
+  	minimum energy of perfect lattice = -5925.67122146364
+
+  Disordered accepted MC moves = 1272
+  Disordered total moves = 5000
+  accepted MC moves = 271
+  Total moves = 5080
+  	Ratio of accepted/Total = 5.33464566929134 %
+
+Calculation complete
+Total wall time: 0:06:17
+MC stats:
+  	neighbor list rebuilds = 1
+  	starting energy = -5925.67122146364
+  	final energy = -5868.04344755083
+  	minimum energy of perfect lattice = -5925.67122146364
+
+  Disordered accepted MC moves = 1272
+  Disordered total moves = 5000
+  accepted MC moves = 425
+  Total moves = 12280
+  	Ratio of accepted/Total = 3.46091205211726 %
+
+Calculation complete
+Total wall time: 0:10:52
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -5925.67122146364
+  	final energy = -5884.86752075528
+  	minimum energy of perfect lattice = -5925.67122146364
+
+  Disordered accepted MC moves = 1272
+  Disordered total moves = 5000
+  accepted MC moves = 525
+  Total moves = 23800
+  	Ratio of accepted/Total = 2.20588235294118 %
+
+Calculation complete
+Total wall time: 0:18:05
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -5925.67122146364
+  	final energy = -5852.47041112352
+  	minimum energy of perfect lattice = -5925.67122146364
+
+  Disordered accepted MC moves = 1272
+  Disordered total moves = 5000
+  accepted MC moves = 371
+  Total moves = 9400
+  	Ratio of accepted/Total = 3.9468085106383 %
+
+Calculation complete
+Total wall time: 0:05:56
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -5925.67122146364
+  	final energy = -5884.86752075528
+  	minimum energy of perfect lattice = -5925.67122146364
+
+  Disordered accepted MC moves = 1272
+  Disordered total moves = 5000
+  accepted MC moves = 525
+  Total moves = 23800
+  	Ratio of accepted/Total = 2.20588235294118 %
+
+Calculation complete
+Total wall time: 0:11:36
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -13332.7757852724
+  	final energy = -13290.7925774453
+  	minimum energy of perfect lattice = -13332.7757852724
+
+  Disordered accepted MC moves = 1813
+  Disordered total moves = 12960
+  accepted MC moves = 879
+  Total moves = 51840
+  	Ratio of accepted/Total = 1.69560185185185 %
+
+Calculation complete
+Total wall time: 0:53:17
+  estimated relative force accuracy = 9.96919e-05
+  using double precision FFTs
+  3d grid and FFT values/proc = 16337 4608
+Setting up Verlet run ...
+  Unit style    : metal
+  Current step  : 0
+  Time step     : 0.001
+Memory usage per processor = 5.38607 Mbytes
+Step Temp E_pair E_mol TotEng Press 
+       0            0   -5924.0502            0   -5924.0502    3520.5441 
+Loop time of 1.90735e-06 on 1 procs for 0 steps with 288 atoms
+
+0.0% CPU use with 1 MPI tasks x 1 OpenMP threads
+ERROR: Expected integer parameter in input script or data file (../run.cpp:48)
+  estimated relative force accuracy = 9.96919e-05
+  using double precision FFTs
+  3d grid and FFT values/proc = 10013 2304
+Setting up Verlet run ...
+  Unit style    : metal
+  Current step  : 0
+  Time step     : 0.001
+Memory usage per processor = 4.93526 Mbytes
+Step Temp E_pair E_mol TotEng Press 
+       0            0         -nan            0         -nan         -nan 
+Loop time of 2.03848e-05 on 2 procs for 0 steps with 288 atoms
+
+93.2% CPU use with 2 MPI tasks x 1 OpenMP threads
+ERROR: Invalid Boolean syntax in if command (../variable.cpp:4601)
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -5925.67122146364
+  	final energy = -5869.50070659476
+  	minimum energy of perfect lattice = -5925.67122146364
+
+  Disordered accepted MC moves = 1460
+  Disordered total moves = 5760
+  accepted MC moves = 429
+  Total moves = 11520
+  	Ratio of accepted/Total = 3.72395833333333 %
+
+Calculation complete
+Total wall time: 0:10:48
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 39052
+Ave neighs/atom = 135.597
+Neighbor list builds = 0
+Dangerous builds = 0
+
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -5925.67122146364
+  	final energy = -108915088.650704
+  	minimum energy of perfect lattice = -5925.67122146364
+
+ERROR on proc 0: Substitution for illegal variable (../input.cpp:530)
+  grid = 8 15 15
+  stencil order = 5
+  estimated absolute RMS force accuracy = 0.000671313
+  estimated relative force accuracy = 4.66201e-05
+  using double precision FFTs
+  3d grid and FFT values/proc = 5200 1800
+Setting up Verlet run ...
+  Unit style    : metal
+  Current step  : 144
+  Time step     : 0.001
+Memory usage per processor = 4.61812 Mbytes
+Step Temp E_pair E_mol TotEng Press 
+     144      2767343   -96207.856            0   -70810.648 -4.2496658e+08 
+ERROR: Lost atoms: original 72 current 70 (../thermo.cpp:394)
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -69198384.3935673
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 314
+  Disordered total moves = 720
+  accepted MC moves = 144
+  Total moves = 3600
+  	Ratio of accepted/Total = 4 %
+
+Calculation complete
+Total wall time: 0:00:39
+Neighbor list builds = 0
+Dangerous builds = 0
+
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -1490028569.1144
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 2533
+  Disordered total moves = 7200
+  accepted MC moves = 0
+  Total moves = 0
+ERROR: Divide by 0 in variable formula (../variable.cpp:2114)
+Step Temp E_pair E_mol TotEng Press 
+       0            0   -1481.4266            0   -1481.4266    672.06402 
+Loop time of 2.14577e-06 on 1 procs for 0 steps with 72 atoms
+
+139.8% CPU use with 1 MPI tasks x 1 OpenMP threads
+Setting atom values ...
+  1 settings made for z
+Setting atom values ...
+  1 settings made for y
+Setting atom values ...
+  1 settings made for z
+Setting atom values ...
+  1 settings made for y
+ERROR: Compute bond/local used when bonds are not allowed (../compute_bond_local.cpp:41)
+  1 settings made for z
+Setting atom values ...
+  1 settings made for y
+WARNING: No fixes defined, atoms won't move (../verlet.cpp:55)
+PPPM initialization ...
+WARNING: Using polynomial approximation for long-range coulomb (../kspace.cpp:316)
+  G vector (1/distance) = 0.400041
+  grid = 8 15 15
+  stencil order = 5
+  estimated absolute RMS force accuracy = 0.000671313
+  estimated relative force accuracy = 4.66201e-05
+  using double precision FFTs
+  3d grid and FFT values/proc = 5200 1800
+ERROR: No bond style is defined for compute bond/local (../compute_bond_local.cpp:83)
+
+Total # of neighbors = 16560
+Ave neighs/atom = 230
+Ave special neighs/atom = 0
+Neighbor list builds = 0
+Dangerous builds = 0
+
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -1481.42658366852
+  	minimum energy of perfect lattice = -1481.42658366852
+
+ERROR on proc 0: Substitution for illegal variable (../input.cpp:530)
+Neighbor list builds = 0
+Dangerous builds = 0
+
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -1185.29110213783
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 141
+  Disordered total moves = 720
+  accepted MC moves = 0
+  Total moves = 0
+ERROR: Divide by 0 in variable formula (../variable.cpp:2114)
+Neighbor list builds = 0
+Dangerous builds = 0
+
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -1185.29110213783
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 141
+  Disordered total moves = 720
+  accepted MC moves = 0
+  Total moves = 0
+ERROR: Divide by 0 in variable formula (../variable.cpp:2114)
+  3d grid and FFT values/proc = 8228 1800
+Setting up Verlet run ...
+  Unit style    : metal
+  Current step  : 141
+  Time step     : 0.001
+Memory usage per processor = 5.63719 Mbytes
+Step Temp E_pair E_mol TotEng Press 
+     141            0   -1187.8861            0   -1187.8861   -3916088.8 
+Loop time of 2.86102e-06 on 1 procs for 0 steps with 72 atoms
+
+0.0% CPU use with 1 MPI tasks x 1 OpenMP threads
+-1481.42658366852 -1185.29110213783 -1187.88609968278
+not skipped
+ERROR: Invalid Boolean syntax in if command (../variable.cpp:4718)
+  estimated relative force accuracy = 4.66201e-05
+  using double precision FFTs
+  3d grid and FFT values/proc = 8228 1800
+Setting up Verlet run ...
+  Unit style    : metal
+  Current step  : 0
+  Time step     : 0.001
+Memory usage per processor = 5.63719 Mbytes
+Step Temp E_pair E_mol TotEng Press 
+       0            0   -1293.3057            0   -1293.3057    417930.54 
+Loop time of 1.19209e-06 on 1 procs for 0 steps with 72 atoms
+
+0.0% CPU use with 1 MPI tasks x 1 OpenMP threads
+ERROR: Unbalanced quotes in input line (../input.cpp:433)
+Setting up Verlet run ...
+  Unit style    : metal
+  Current step  : 141
+  Time step     : 0.001
+Memory usage per processor = 5.63719 Mbytes
+Step Temp E_pair E_mol TotEng Press 
+     141            0   -1187.8861            0   -1187.8861   -3916088.8 
+Loop time of 1.90735e-06 on 1 procs for 0 steps with 72 atoms
+
+0.0% CPU use with 1 MPI tasks x 1 OpenMP threads
+inf
+-1481.42658366852 -1185.29110213783 -1187.88609968278
+not skipped
+ERROR: Invalid Boolean syntax in if command (../variable.cpp:4718)
+Setting up Verlet run ...
+  Unit style    : metal
+  Current step  : 141
+  Time step     : 0.001
+Memory usage per processor = 5.63719 Mbytes
+Step Temp E_pair E_mol TotEng Press 
+     141            0   -1187.8861            0   -1187.8861   -3916088.8 
+Loop time of 2.14577e-06 on 1 procs for 0 steps with 72 atoms
+
+0.0% CPU use with 1 MPI tasks x 1 OpenMP threads
+inf 0.026
+-1481.42658366852 -1185.29110213783 -1187.88609968278
+not skipped
+ERROR: Invalid Boolean syntax in if command (../variable.cpp:4718)
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -1481.42044504515
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 141
+  Disordered total moves = 720
+  accepted MC moves = 22
+  Total moves = 2880
+  	Ratio of accepted/Total = 0.763888888888889 %
+
+Calculation complete
+Total wall time: 0:00:33
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -1481.42044504515
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 141
+  Disordered total moves = 720
+  accepted MC moves = 22
+  Total moves = 2880
+  	Ratio of accepted/Total = 0.763888888888889 %
+
+Calculation complete
+Total wall time: 0:00:57
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -1481.27712689467
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 136
+  Disordered total moves = 720
+  accepted MC moves = 6
+  Total moves = 2880
+  	Ratio of accepted/Total = 0.208333333333333 %
+
+Calculation complete
+Total wall time: 0:00:57
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -1481.37709065463
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 603
+  Disordered total moves = 2880
+  accepted MC moves = 15
+  Total moves = 4320
+  	Ratio of accepted/Total = 0.347222222222222 %
+
+Calculation complete
+Total wall time: 0:01:03
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -1481.37709065463
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 603
+  Disordered total moves = 2880
+  accepted MC moves = 15
+  Total moves = 4320
+  	Ratio of accepted/Total = 0.347222222222222 %
+
+Calculation complete
+Total wall time: 0:01:03
+
+Total # of neighbors = 16240
+Ave neighs/atom = 225.556
+Ave special neighs/atom = 0
+Neighbor list builds = 0
+Dangerous builds = 0
+
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -1307.86733504522
+  	minimum energy of perfect lattice = -1481.42658366852
+
+ERROR on proc 0: Substitution for illegal variable (../input.cpp:530)
+
+Total # of neighbors = 16092
+Ave neighs/atom = 223.5
+Ave special neighs/atom = 0
+Neighbor list builds = 0
+Dangerous builds = 0
+
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = 824.527218623189
+  	minimum energy of perfect lattice = -1481.42658366852
+
+ERROR on proc 0: Substitution for illegal variable (../input.cpp:530)
+
+Total # of neighbors = 15872
+Ave neighs/atom = 220.444
+Ave special neighs/atom = 0
+Neighbor list builds = 0
+Dangerous builds = 0
+
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -695.448965921377
+  	minimum energy of perfect lattice = -1481.42658366852
+
+ERROR on proc 0: Substitution for illegal variable (../input.cpp:530)
+
+Total # of neighbors = 15922
+Ave neighs/atom = 221.139
+Ave special neighs/atom = 0
+Neighbor list builds = 0
+Dangerous builds = 0
+
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = 4154.50454418652
+  	minimum energy of perfect lattice = -1481.42658366852
+
+ERROR on proc 0: Substitution for illegal variable (../input.cpp:530)
+<<<<<<< HEAD
+
+Total # of neighbors = 15922
+Ave neighs/atom = 221.139
+Ave special neighs/atom = 0
+Neighbor list builds = 0
+Dangerous builds = 0
+
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = 4154.50454418652
+  	minimum energy of perfect lattice = -1481.42658366852
+
+ERROR on proc 0: Substitution for illegal variable (../input.cpp:530)
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = 1417.21866854454
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 0
+  Disordered total moves = 2880
+  accepted MC moves = 0
+  Total moves = 2160
+  	Ratio of accepted/Total = 0 %
+
+Calculation complete
+Total wall time: 0:00:49
+=======
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = 399.354306848141
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 0
+  Disordered total moves = 1440
+  accepted MC moves = 0
+  Total moves = 72
+  	Ratio of accepted/Total = 0 %
+
+Calculation complete
+Total wall time: 0:00:21
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = 399.354306848141
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 0
+  Disordered total moves = 1440
+  accepted MC moves = 0
+  Total moves = 72
+  	Ratio of accepted/Total = 0 %
+
+Calculation complete
+Total wall time: 0:00:22
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = 2288.67280436626
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 0
+  Disordered total moves = 1440
+  accepted MC moves = 0
+  Total moves = 72
+  	Ratio of accepted/Total = 0 %
+
+Calculation complete
+Total wall time: 0:00:21
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = 1536.58378247451
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 0
+  Disordered total moves = 3600
+  accepted MC moves = 0
+  Total moves = 3600
+  	Ratio of accepted/Total = 0 %
+
+Calculation complete
+Total wall time: 0:01:39
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = 3351.94968586851
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 0
+  Disordered total moves = 720
+  accepted MC moves = 0
+  Total moves = 6480
+  	Ratio of accepted/Total = 0 %
+
+Calculation complete
+Total wall time: 0:01:39
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = 3351.94968586851
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 0
+  Disordered total moves = 720
+  accepted MC moves = 0
+  Total moves = 6480
+  	Ratio of accepted/Total = 0 %
+
+Calculation complete
+Total wall time: 0:01:37
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = 340.733794863547
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 0
+  Disordered total moves = 720
+  accepted MC moves = 0
+  Total moves = 720
+  	Ratio of accepted/Total = 0 %
+
+Calculation complete
+Total wall time: 0:00:19
+MC stats:
+  	neighbor list rebuilds = 0
+  	starting energy = -1481.42658366852
+  	final energy = -157109.70826926
+  	minimum energy of perfect lattice = -1481.42658366852
+
+  Disordered accepted MC moves = 6
+  Disordered total moves = 720
+  accepted MC moves = 0
+  Total moves = 720
+  	Ratio of accepted/Total = 0 %
+
+Calculation complete
+Total wall time: 0:00:19
+>>>>>>> 94a54db0edd7f429265340cae5aaffd258d07f5b
